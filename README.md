@@ -1,6 +1,6 @@
 # 🍕 Case Study #2 Pizza Runner
 
-![image](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-/blob/master/images/Readme/Pizza%20Runner_Case%20Study2.png)
+![image](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2/blob/master/images/Readme/Pizza%20Runner_Case%20Study2.png)
 
 ## 📚 Table of Contents
 - [Business Task](#business-task)
@@ -24,13 +24,13 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ## Entity Relationship Diagram
 
-![image](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-/blob/master/images/Readme/Entity_relationship_Diagram.png)
+![image](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2/blob/master/images/Readme/Entity_relationship_Diagram.png)
 
 ## Case Study Questions
 
 ### A. Pizza Metrics
 
-View my solution [here]().
+View my solution [here](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2/blob/master/A.%20Pizza%20Metrics.md).
 
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
@@ -45,7 +45,7 @@ View my solution [here]().
 
 ### B. Runner and Customer Experience
 
-View my solution [here]().
+View my solution [here](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2/blob/master/B.%20Runner%20and%20Customer%20Experience.md).
 
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
@@ -56,6 +56,7 @@ View my solution [here]().
 7. What is the successful delivery percentage for each runner?
 
 ### C. Ingredient Optimisation
+view my solution [here](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2/blob/master/C.%20Ingredient%20Optimisation.md)
 
 1. What are the standard ingredients for each pizza?
 2. What was the most commonly added extra?
