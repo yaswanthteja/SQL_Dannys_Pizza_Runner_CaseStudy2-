@@ -9,11 +9,11 @@
 
  - Solution
 
-  - [Data Cleaning and Transformation]()
-  - [A. Pizza Metrics]()
-  - [B. Runner and Customer Experience]()
-  - [Complete SQL Syntax]()
-- [Solution on Dev]()
+  - [Data Cleaning and Transformation](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-/blob/master/D.Data%20Cleaning%20and%20Transformation.md)
+  - [A. Pizza Metrics](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-/blob/master/A.%20Pizza%20Metrics.md)
+  - [B. Runner and Customer Experience](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-/blob/master/B.%20Runner%20and%20Customer%20Experience.md)
+  - [Complete SQL Syntax](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-/tree/master/SQL%20Syntax)
+- [Solution on Dev](https://dev.to/yaswanthteja/8-week-sql-challenge-case-study-2-pizza-runner-e0o)
 
 ***
 
