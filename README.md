@@ -32,6 +32,15 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 View my solution [here](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2/blob/master/A.%20Pizza%20Metrics.md).
 
+
+
+
+
+
+
+
+
+
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
 3. How many successful orders were delivered by each runner?
@@ -94,3 +103,19 @@ view my solution [here](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_
 If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an INSERT statement to demonstrate what would happen if a new Supreme pizza with all the toppings was added to the Pizza Runner menu?
 
 ***
+
+
+
+- [SQL_Dannys_Diner_CaseStudy1](https://github.com/yaswanthteja/SQL_Dannys_Diner_CaseStudy1)
+
+- [SQL_Dannys_Foodiee-Fi_CaseStudy3](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3)
+
+- [SQL_Dannys_Data-Bank_CaseStudy4](https://github.com/yaswanthteja/SQL_Dannys_Data-Bank_CaseStudy4)
+
+
+
+
+
+
+
+
