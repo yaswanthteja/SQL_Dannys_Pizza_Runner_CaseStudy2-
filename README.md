@@ -106,13 +106,15 @@ If Danny wants to expand his range of pizzas - how would this impact the existin
 
 
 
+
 - [SQL_Dannys_Diner_CaseStudy1](https://github.com/yaswanthteja/SQL_Dannys_Diner_CaseStudy1)
+
+
+- [SQL_Dannys_Pizza_Runner_CaseStudy2-](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-)
 
 - [SQL_Dannys_Foodiee-Fi_CaseStudy3](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3)
 
 - [SQL_Dannys_Data-Bank_CaseStudy4](https://github.com/yaswanthteja/SQL_Dannys_Data-Bank_CaseStudy4)
-
-
 
 
 
